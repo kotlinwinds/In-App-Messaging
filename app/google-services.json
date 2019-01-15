@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "655859197047",
+    "firebase_url": "https://winds-inapp.firebaseio.com",
+    "project_id": "winds-inapp",
+    "storage_bucket": "winds-inapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655859197047:android:357e5f8b75e86011",
+        "android_client_info": {
+          "package_name": "co.winds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655859197047-oq2i2ufhs5at7kc9elsakugdf0pp86nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDAAucffT9_hzZs9uKVo0WSER_JfX2mcM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
